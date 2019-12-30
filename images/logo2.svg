@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="41px" height="41px" viewBox="0 0 41 41" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>logo2</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="logo2">
+            <polygon id="Path" fill="#25D1A6" fill-rule="nonzero" points="41 41 0 41 0 0 41 0"></polygon>
+            <path d="M19.499742,30.4027977 L19.4964936,22.8817489 C18.8204168,22.5307693 18.4360159,21.853732 18.4360159,20.9966481 C18.4360159,20.1386492 18.8218153,19.4613882 19.4998593,19.110745 L19.4966937,11.602356 C13.4056646,12.8217798 10.5,15.9051399 10.5,21.0448658 C10.5,26.1833269 13.4045645,29.2374274 19.499742,30.4027977 Z" id="Path-4" stroke="#222222"></path>
+            <path d="M31,31 C24.3333333,30.0362519 21,26.7178645 21,21.0448377 C21,15.3718109 24.3321268,12.0235317 30.9963803,11 L31,20.0625 L30.9963803,21.9375 L31,31 Z" id="Path-4-Copy" fill="#222222" fill-rule="nonzero" transform="translate(26.000000, 21.000000) scale(-1, 1) translate(-26.000000, -21.000000) "></path>
+        </g>
+    </g>
+</svg>
