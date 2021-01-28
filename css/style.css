@@ -4819,6 +4819,9 @@ table.shop-cart tbody tr td.actions input {
 	.header-2 .header-column-icon-container {
 		padding-right: 15px;
 	}
+     blockquote {
+        font-size: 18px;
+    }
 }
 @media (max-width: 1024px) {
 	.page-open-mobile-menu {
@@ -4827,6 +4830,9 @@ table.shop-cart tbody tr td.actions input {
 	.blog-item.style-3 .post-thumb .dates {
 		display: none;
 	}
+    blockquote {
+        font-size: 18px;
+    }
 }
 @media (max-width: 768px) {
 	.service-carousel .owl-controls {
