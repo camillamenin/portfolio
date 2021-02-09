@@ -1770,8 +1770,11 @@ table {
 	background-position: center;
 }
 .section-bg-3 {
-	background-image:url(../images/background/bg_1920x800.jpg);
-	background-position: center;
+	background-image:url(../images/background/lifepostits3.jpg);
+	background-position: center top;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
 }
 .section-bg-4 {
 	background-image:url(../images/background/bg_1920x1000.jpg);
@@ -1783,8 +1786,7 @@ table {
 }
 .section-bg-6 {
 	background-image:url(../images/background/bg_1920x700.jpg);
-	background-position: center;
-}
+	background-position: center;}
 .section-bg-7 {
 	background-image:url(../images/background/bg_1920x700.jpg);
 	background-position: center;
@@ -2370,6 +2372,8 @@ table {
     padding: 50px;
     background-color: #222;
     color: #888;
+    min-width: 100px;
+    min-height: 100px;
 }
 .project-carousel .content .terms span {
     padding-right: 10px;
@@ -4822,6 +4826,14 @@ table.shop-cart tbody tr td.actions input {
      blockquote {
         font-size: 18px;
     }
+    .project-carousel .content {
+    margin: -20px;
+    padding: 0;
+    background-color: #222;
+    color: #888;
+    min-width: 40px;
+    min-height: 100px;
+    }
 }
 @media (max-width: 1024px) {
 	.page-open-mobile-menu {
@@ -4832,6 +4844,14 @@ table.shop-cart tbody tr td.actions input {
 	}
     blockquote {
         font-size: 18px;
+    }
+    .project-carousel .content {
+    margin: -20px;
+    padding: 0;
+    background-color: #222;
+    color: #888;
+    min-width: 30px;
+    min-height: 100px;
     }
 }
 @media (max-width: 768px) {
@@ -4907,6 +4927,9 @@ table.shop-cart tbody tr td.actions input {
     }
     .heli-listing-square li {
         padding-right: 5px;
+    }
+   .project-carousel .content {
+    display: none;
     }
 
 }
