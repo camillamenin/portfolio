@@ -141,8 +141,8 @@
 		if($("#typed").length > 0) {
 		  $("#typed").typed({
 			stringsElement: $("#typed-strings"),
-			typeSpeed: 30,
-			backDelay: 500,
+			typeSpeed: 50,
+			backDelay: 700,
 			loop: true,
 			contentType: "html", // or text
 			loopCount: false,

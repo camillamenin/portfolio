@@ -14,7 +14,7 @@ jQuery(function($) {
 			})
 			.on('circle-animation-progress', function(event, progress) {
 
-				count_html.html(parseInt((count_html.data( 'max' )) * progress) + '<span>' + count_html.data('units') + '</span>');
+				count_html.html(parseInt((count_html.data( 'max' )) * progress) + '%<span>' + count_html.data('units') + '</span>');
 			});
 	},{
 		offset: '100%',

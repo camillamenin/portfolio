@@ -200,8 +200,8 @@ function getScrollRoot(){
 }
 
 
-
 var actionSwitches = function(tnc,opt,a,_nc) {
+
 	switch (a.action) {
 		case "scrollbelow":		
 

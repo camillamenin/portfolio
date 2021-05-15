@@ -1815,8 +1815,8 @@ Theme Name: Heli
 .bg-dark1 {
   background-color: #222222 !important;
   position: absolute;
-  top: -35px;
   padding: 30px 10px;
+  border-radius: 3px;
 }
 
 .bg-dark1 {
@@ -1828,7 +1828,7 @@ Theme Name: Heli
 }
 
 .bg-gray-2 {
-  background-color: #eeeeee !important;
+  background-color: #7B7979 !important;
 }
 
 .bg-gray-3 {

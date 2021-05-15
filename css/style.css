@@ -1919,7 +1919,7 @@ table {
 	background-repeat: no-repeat;
 }
 .section-bg-34 {
-	background-image:url(../images/background/bg_1920x1000.jpg);
+	background-image:url(../images/notebook/octocoffee.jpg);
 	background-position: center;
 	background-repeat: no-repeat;
 }
@@ -1929,12 +1929,12 @@ table {
 	background-repeat: no-repeat;
 }
 .section-bg-36 {
-	background-image:url(../images/background/bg_1920x1000.jpg);
+	background-image:url(../images/notebook/octocover2.jpg);
 	background-position: center;
 	background-repeat: no-repeat;
 }
 .section-bg-37 {
-	background-image:url(../images/background/bg_1920x1000.jpg);
+	background-image:url(../images/notebook/octogoals.jpg);
 	background-position: center;
 	background-repeat: no-repeat;
 }
@@ -1945,67 +1945,67 @@ table {
 	background-repeat: no-repeat;
 }
 .section-bg-39 {
-	background-image:url(../images/background/bg_1920x1000.jpg);
+	background-image:url(../images/notebook/table.jpg);
 	background-position: center;
 	background-repeat: no-repeat;
 }
 .section-bg-40 {
-	background-image:url(../images/background/bg_1920x600.jpg);
+	background-image:url(../images/notebook/octotasks.jpg);
 	background-position: center;
 	background-repeat: no-repeat;
 }
 .section-bg-41 {
-	background-image:url(../images/background/bg_1920x1000.jpg);
+	background-image:url(../images/notebook/sketches.jpg);
 	background-position: center;
 	background-repeat: no-repeat;
 }
 .section-bg-42 {
-	background-image:url(../images/background/bg_1920x600.jpg);
+	background-image:url(../images/notebook/octomonth.jpg);
 	background-position: center;
 	background-repeat: no-repeat;
 }
 .section-bg-43 {
-	background-image:url(../images/background/bg_1920x600.jpg);
+	background-image:url(../images/notebook/backcover.jpg);
 	background-position: center;
 	background-repeat: no-repeat;
 }
 .section-bg-44 {
-	background-image:url(../images/background/bg_1920x800.jpg);
+	background-image:url(../images/habit/octohabit.jpg);
 	background-position: center;
 	background-repeat: no-repeat;
 }
 .section-bg-45 {
-	background-image:url(../images/background/bg_390x300.jpg);
+	background-image:url(../images/habit/monthcomp.jpg);
 	background-position: center;
 	background-repeat: no-repeat;
 }
 .section-bg-46 {
-	background-image:url(../images/background/bg_390x300.jpg);
+	background-image:url(../images/habit/monthunhealthy.jpg);
 	background-position: center;
 	background-repeat: no-repeat;
 }
 .section-bg-47 {
-	background-image:url(../images/background/bg_390x300.jpg);
+	background-image:url(../images/habit/flyingmac.jpg);
 	background-position: center;
 	background-repeat: no-repeat;
 }
 .section-bg-48 {
-	background-image:url(../images/background/bg_1920x600.jpg);
+	background-image:url(../images/habit/monthhealthy.png);
 	background-position: center;
 	background-repeat: no-repeat;
 }
 .section-bg-49 {
-	background-image:url(../images/background/bg_1920x600.jpg);
+	background-image:url(../images/habit/monthcreative.jpg);
 	background-position: center;
 	background-repeat: no-repeat;
 }
 .section-bg-50 {
-	background-image:url(../images/background/bg_1920x600.jpg);
+	background-image:url(../images/habit/monthsocial.png);
 	background-position: center;
 	background-repeat: no-repeat;
 }
 .section-bg-51 {
-	background-image:url(../images/background/bg_1920x800.jpg);
+	background-image:url(../images/habit/float.jpg);
 	background-position: center;
 	background-repeat: no-repeat;
 }
@@ -2202,6 +2202,25 @@ table {
 	min-height: 400px;
     height: 100%;
 }
+.feature-item.style-3.back1 {
+    background-image: url(../images/notebook/check.jpg);
+}
+.feature-item.style-3.back2 {
+    background-image: url(../images/notebook/hours.jpg);
+}
+.feature-item.style-3.back3 {
+    background-image: url(../images/notebook/tea.jpg);
+}
+.feature-item.style-3.back4 {
+    background-image: url(../images/notebook/week.jpg);
+}
+.feature-item.style-3.back5 {
+    background-image: url(../images/notebook/daily.jpg);
+}
+.feature-item.style-3.back6 {
+    background-image: url(../images/notebook/weekreview.jpg);
+}
+
 .feature-item.style-3 .content { 
 	width: 100%;
 	position: absolute;
@@ -2224,7 +2243,7 @@ table {
 	transition: all 0.5s cubic-bezier(0.645, 0.045, 0.355, 1);
 }
 .feature-item.style-3:hover:before {
-    background: rgba(0, 0, 0, 0.85);
+    background: rgba(0, 0, 0, 0.65);
 }
 .feature-item.style-3.no-overlay:before {
     display: none;
@@ -2299,6 +2318,137 @@ table {
 .feature-item.style-4 .feature-icon .feature-icon-inner {
     width: auto;
     height: auto;
+}
+.feature-item.style-5 {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    min-height: 400px;
+    height: 100%;
+}
+.feature-item.style-5.back1 {
+    background-image: url(../images/habit/sugar.jpg);
+}
+.feature-item.style-5.back2 {
+    background-image: url(../images/habit/gym.jpg);
+}
+.feature-item.style-5.back3 {
+    background-image: url(../images/habit/phone.jpg);
+}
+.feature-item.style-5.back4 {
+    background-image: url(../images/habit/art.jpg);
+}
+
+.feature-item.style-5 .content { 
+    width: 100%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%,-50%);
+    -ms-transform: translate(-50%,-50%);
+    -o-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
+}
+.feature-item.style-5:before {
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: block;
+    width: 100%;
+    height: 100%;
+    content: '';
+    transition: all 0.5s cubic-bezier(0.645, 0.045, 0.355, 1);
+}
+.feature-item.style-5.first:before {
+    background: #2C2900;
+    opacity: 60%;
+}
+.feature-item.style-5.second:before {
+    background: #001830;
+    opacity: 60%;
+}
+.feature-item.style-5.third:before {
+    background: #290000;
+    opacity: 60%;
+}
+.feature-item.style-5.fourth:before {
+    background: #00200C;
+    opacity: 60%;
+}
+/*.feature-item.style-5.first:hover:before {
+    background: rgba(44, 41, 0, 0.65);
+}
+.feature-item.style-5.second:hover:before {
+    background: rgba(0, 24, 48, 0.65);
+}
+.feature-item.style-5.third:hover:before {
+    background: rgba(41, 0, 0, 0.65);
+}
+.feature-item.style-5.fourth:hover:before {
+    background: rgba(0, 32, 12, 0.65);
+}*/
+.feature-item.style-5.no-overlay:before {
+    display: none;
+}
+.feature-item.style-5 .feature-icon {
+    margin-bottom: 25px;
+    text-align: center;
+    display: inline-block;
+    border: 2px solid transparent;
+    width: 4em;
+    height: 4em;
+    box-sizing: content-box;
+    position: relative;
+}
+.feature-item.style-5 .feature-icon i {
+    color: #fff;
+    font-size: 90px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1;
+    display: inline-block;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%,-50%);
+    -ms-transform: translate(-50%,-50%);
+    -o-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
+    transition: all 0.5s cubic-bezier(0.645, 0.045, 0.355, 1);
+}
+.feature-item.style-5:hover .feature-icon i {
+    font-size: 70px;
+}
+.feature-item.style-5 h3 {
+    margin-top: 10px;
+    margin-bottom: 0;
+    font-size: 16px;
+    color: #ffffff;
+    text-align: center;
+    font-weight: 400;
+    position: relative;
+    z-index: 1;
+}
+.feature-item.style-5 .desc {
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-left: 20px;
+    overflow: hidden;
+    max-height: 0;
+    transition: max-height .8s;
+    font-size: 16px;
+    color: #ffffff;
+    text-align: center;
+    font-weight: 300;
+    position: relative;
+    z-index: 1;
+}
+.feature-item.style-5 .desc {
+    max-height: 200px;
+    text-align: center;
 }
 @media (min-width: 1024px) {
 	.feature-item.style-1:before {
@@ -3322,14 +3472,13 @@ table {
     width: 80px;
     height: 80px;
     display: inline-block;
-    background: #333333;
+    background: #25D1A6;
     color: #ffffff;
     text-align: center;
     line-height: 80px;
     margin-left: 2px;
     font-size: 0;
 	border-radius: 0;
-	background: #333333;
     filter: Alpha(Opacity=80);
     opacity: .8;
 	margin: 0;
